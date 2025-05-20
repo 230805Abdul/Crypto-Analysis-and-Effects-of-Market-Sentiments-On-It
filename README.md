@@ -4,8 +4,6 @@
 1. Muhammad Wasif Shakeel (456092)
 2. Muhammad Muntazar (470861)
 3. Hafiz Abdul Basit (472617)
-4. Abdullah Hassan (479819)
-5. Adyaan Ahmed (479556)
 
 ## Overview
 This repository contains code for a machine learning project that uses various regression models including Random Forest and XGBoost to predict a target variable. The code includes data preprocessing, feature engineering, model training, and evaluation.
